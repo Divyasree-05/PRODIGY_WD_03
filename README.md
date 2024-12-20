@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Web Application
+# Tic-Tac-Toe Web Application 🎮
 A classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application allows two players to play interactively, with features such as player turn indication, a trophy animation for winning, and a reset functionality to start a new game.
 
 # Features
